@@ -1,10 +1,7 @@
-# Bearly Working AI, OPT-Lovecraft
-A poorly trained OPT model for H. P. Lovecraft's work.
+# Bearly Working AI, OPT-Warriors
 
-This is the OPT model trained in this [video](https://www.youtube.com/watch?v=_GLixmhmdZc)
+An OPT model trained on Warrior Cats
 
-It is both poorly trained and extremely racist.
-
-It can and will use racial slurs given the chance.
+This is the OPT model trained in this [video]()
 
 Check out my [YouTube Channel](https://www.youtube.com/channel/UCLXxfueCPZRZnyGFWJ07uqA)
